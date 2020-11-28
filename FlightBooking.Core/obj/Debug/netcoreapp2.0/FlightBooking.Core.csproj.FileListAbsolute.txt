@@ -1,0 +1,17 @@
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.deps.json
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.dll
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.csprojAssemblyReference.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfoInputs.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfo.cs
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.csproj.CoreCompileInputs.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.dll
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.deps.json
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.dll
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfoInputs.cache
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfo.cs
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.dll
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+C:\Learning\CapitalOnTap\FlightBookingProblem\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.csprojAssemblyReference.cache
